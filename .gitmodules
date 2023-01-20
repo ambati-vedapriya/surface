@@ -1,0 +1,3 @@
+[submodule "subone"]
+	path = subone
+	url = git@github.com:ambati-vedapriya/subone.git
